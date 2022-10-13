@@ -1,0 +1,16 @@
+ManifestType: singleton
+ManifestVersion: 1.2.0
+
+PackageIdentifier: Codemutex.NextSSH
+PackageVersion: 2.2.0
+PackageName: NextSSH
+PackageLocale: zh-CN
+ShortDescription: 简洁直观的SSH客户端
+License: None
+Publisher: Codemutex
+
+Installers:
+- Architecture: x64
+  InstallerType: nullsoft
+  InstallerUrl: https://github.com/codemutex/NextSSH-userland/releases/download/v2.2.0/NextSSH.Setup.2.2.0.exe
+  InstallerSha256: 724AA56800076D035E44A562EF0D2922898A89AF602911B1BF4BAC4FBFE88D68
